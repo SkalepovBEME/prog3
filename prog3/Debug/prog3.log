@@ -1,0 +1,5 @@
+﻿  prog3.cpp
+C:\Users\PC\source\repos\prog3\prog3.cpp(17): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\PC\source\repos\prog3\prog3.cpp(139): warning C4244: =: преобразование "double" в "SHORT", возможна потеря данных
+C:\Users\PC\source\repos\prog3\prog3.cpp(326): warning C4101: destCoord: неиспользованная локальная переменная
+  prog3.vcxproj -> C:\Users\PC\source\repos\prog3\Debug\prog3.exe
